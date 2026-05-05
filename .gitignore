@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+.angular/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.log
+.settings/
+.classpath
+.project
